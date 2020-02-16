@@ -1,0 +1,124 @@
+Enchanter Research
+
+Pages Required
+16 	Disempower 	Tasarin's Grimoire Page 24 - Left 	Tasarin's Grimoire Page 24 - Right
+16 	Levitate 	Tasarin's Grimoire Page 23 - Left 	Tasarin's Grimoire Page 23 - Right
+16 	Mesmerisation 	Tasarin's Grimoire Page 26 - Left 	Tasarin's Grimoire Page 26 - Right
+20 	Berserker Strength 	Tasarin's Grimoire Page 30 - Left 	Tasarin's Grimoire Page 30 - Right
+20 	Color Shift 	Tasarin's Grimoire Page 312 - Left 	Tasarin's Grimoire Page 312 - Right
+20 	Endure Magic 	Tasarin's Grimoire Page 375 - Left 	Tasarin's Grimoire Page 375 - Right
+24 	Invigor 	Velishoul's Tome Page 16 (faded) 	Velishoul's Tome Page 17
+24 	Strip Enchantment 	Tasarin's Grimoire Page 390 - Left 	Tasarin's Grimoire Page 390 - Right
+24 	Tepid Deeds 	Velishoul's Tome Page 8 	Velishoul's Tome Page 9
+29 	Feedback 	Velishoul's Tome Page 108 (faded) 	Velishoul's Tome Page 109
+29 	Instill 	Velishoul's Tome Page 75 	Velishoul's Tome Page 76
+29 	Ultravision 	Velishoul's Tome Page 43 	Velishoul's Tome Page 44
+34 	Insipid Weakness 	Salis Writ Page 60 - Left 	Salis Writ Page 60 - Right
+34 	Mana Sieve 	Salis Writ Page 90 - Left 	Salis Writ Page 90 - Right (faded)
+34 	Radiant Visage 	Salis Writ Page 64 - Left 	Salis Writ Page 64 - Right
+39 	Gravity Flux 	Salis Writ Page 174 - Left 	Salis Writ Page 174 - Right
+39 	Immobilize 	Salis Writ Page 282 - Left 	Salis Writ Page 282 - Right
+39 	Mind Wipe 	Salis Writ Page 288 - Left 	Salis Writ Page 288 - Right
+39 	Resist Magic 	Salis Writ Page 153 - Left 	Salis Writ Page 153 - Right
+44 	Color Skew 	Nitilm's Grimoire Page 115 	Nitilm's Grimoire Page 116
+44 	Extinguish Fatigue 	Nitilm's Grimoire Page 351 	Nitilm's Grimoire Page 352
+44 	Pillage Enchantment 	Nitilm's Grimoire Page 35 	Nitilm's Grimoire Page 36
+44 	Shiftless Deeds 	Nitilm's Grimoire Page 300 	Nitilm's Grimoire Page 301
+49 	Allure 	Nitilm's Grimoire Page 378 	Nitilm's Grimoire Page 379
+49 	Blanket of Forgetfullness 	Nitilm's Grimoire Page 415 	Nitilm's Grimoire Page 416
+49 	Paralyzing Earth 	Nitilm's Grimoire Page 400 	Nitilm's Grimoire Page 401
+49 	Reoccurring Amnesia 	Nitilm's Grimoire Page 449 	Nitilm's Grimoire Page 450 
+
+Magician Research
+
+Lvl 	Spell Name 	Words Needed 	Item Needed 	Spell Scroll Needed
+16 	Minor Summoning: Air 	Words of Tyranny 	Aviak Feather 	Scroll - Elemental: Air
+16 	Minor Summoning: Earth 	Words of Tyranny 	Small Brick of Ore 	Scroll - Elemental: Earth
+16 	Minor Summoning: Fire 	Words of Tyranny 	Halas Heater 	Scroll - Elemental: Fire
+16 	Minor Summoning: Water 	Words of Tyranny 	Shark Skin 	Scroll - Elemental: Water
+16 	Summon Heatstone 	Words of the Element 	Bloodstone 	Scroll: Elemental Armor
+20 	Lesser Summoning: Air 	Words of Dominion 	Pearl Shard 	Scroll - Minor Summoning: Air
+20 	Lesser Summoning: Earth 	Words of Dominion 	Topaz 	Scroll - Minor Summoning: Earth
+20 	Lesser Summoning: Fire 	Words of Dominion 	Jade Shard 	Scroll - Minor Summoning: Fire
+20 	Lesser Summoning: Water 	Words of Dominion 	Ice of Velious 	Scroll - Minor Summoning: Water
+24 	Cornucopia 	Words of Transcendence 	Loaf of Bread 	Scroll - Summon Food
+24 	Everfount 	Words of Transcendence 	Flask of Water 	Scroll - Summon Drink
+24 	Summoning: Air 	Words of Dimension 	Pearl Shard 	Scroll - Lesser Summoning: Air
+24 	Summoning: Fire 	Words of Dimension 	Jade Shard 	Scroll - Lesser Summoning: Fire
+24 	Summoning: Water 	Words of Dimension 	Ice of Velious 	Scroll - Lesser Summoning: Water
+29 	Greater Summoning: Air 	Words of Coercion 	Scent of Marr 	Scroll - Summoning: Air
+29 	Greater Summoning: Earth 	Words of Coercion 	Gloves of Rallos Zek 	Scroll - Summoning: Earth
+29 	Greater Summoning: Fire 	Words of Coercion 	Breath of Solusek 	Scroll - Summoning: Fire
+29 	Greater Summoning: Water 	Words of Coersion 	Flame of Vox 	Scroll - Summoning: Water
+29 	Summon Coldstone 	Words of Sight 	Eye of Serilis 	Scroll - Summon Heatstone
+34 	Minor Conjuration: Air 	Words of Duress 	Scent of Marr 	Scroll - Greater Summoning: Air
+34 	Minor Conjuration: Fire 	Words of Duress 	Breath of Solusek 	Scroll - Greater Summoning: Fire
+39 	Dagger of Symbols 	Words of Collection (Azia) 	Dagger 	 
+39 	Lesser Conjuration: Earth 	Words of Convocation 	Gloves of Rallos Zek 	Scroll - Minor Conjuration: Earth
+39 	Lesser Conjuration: Water 	Words of Convocation 	Flame of Vox 	Scroll - Minor Conjuration: Water
+39 	Summon Ring of Flight 	Words of Collection 	Star Rose Quartz 	 
+44 	Conjuration: Air 	Words of Incarceration 	Scent of Marr 	Scroll - Lesser Conjuration: Air
+44 	Conjuration: Earth 	Words of Incarceration 	Essence of Rathe 	Scroll - Lesser Conjuration: Earth
+44 	Conjuration: Water 	Words of Incarceration 	Tears of Prexuz 	Scroll - Lesser Conjuration: Water
+49 	Greater Conjuration: Air 	Words of Bondage 	Wing of Xegony 	Scroll - Conjuration: Air
+49 	Greater Conjuration: Fire 	Words of Bondage 	Breath of Ro 	Scroll - Conjuration: Fire
+49 	Greater Conjuration: Water 	Words of Bondage 	Tears of Prexuz 	Scroll - Conjuration: Water 
+
+Necromancer Research
+
+Words Needed
+16 	Banshee Aura 	Words of Derivation 	Words of Eradication 	 
+16 	Hungry Earth 	Words of Material 	Words of Spirit 	 
+16 	Restless Bones 	Words of Reviviscence 	Words of the Sentient (Azia) 	 
+16 	Voice Graft 	Words of Possession 	Words of the Spoken 	 
+20 	Animate Dead 	Words of Quickening 	Words of the Extinct 	 
+20 	Harmshield 	Words of Absorption 	Words of Refuge 	 
+20 	Identify 	Words of Anthology 	Words of Enlightment 	 
+20 	Shadow Vortex 	Words of Dissolution 	Words of Imitation 	 
+20 	Word of Shadow 	Words of Cazic-Thule 	Words of Radiance 	 
+24 	Breath of the Dead 	Words of Cazic-Thule 	Words of Cloudburst 	Words of Mistbreath
+24 	Haunting Corpse 	Words of Allure 	Words of Detachment 	Words of Possession
+24 	Intensify Death 	Words of Absorption 	Words of Recluse 	Words of the Sentient (Beza)
+24 	Shadow Sight 	Words of Discernment 	Words of Eventide 	 
+29 	Renew Bones 	Words of Acquisition (Azia) 	Words of Incorporeal 	Words of Purification
+29 	Summon Dead 	Words of Haunting 	Words of Possession 	Words of Rupturing
+29 	Vampiric Curse 	Words of Dissemination 	Words of Parasitism 	Words of Possession
+34 	Call of Bones 	Words of Endurance 	Words of Motion 	Words of Neglect
+34 	Invoke Fear 	Words of Duration 	Words of Quivering 	Words of Resolve
+34 	Invoke Shadow 	Words of Dark Paths 	Words of Haunting 	Words of Suffering
+34 	Surge of Enfeeblement 	Words of Abatement 	Words of Efficacy 	Words of Cazic-Thule
+39 	Malignant Dead 	Words of Bidding 	Words of Collection (Beza) 	Words of Suffering
+39 	Word of Souls 	Words of Cazic-Thule 	Words of Projection 	Words of the Specter
+44 	Cackling Bones 	Words of Collection (Caza) 	Words of Obligation 	 
+44 	Dead Man Floating 	Words of Burnishing 	Words of Psyche 	 
+49 	Bond of Death 	Words of Grappling 	Words of Odus 	 
+49 	Invoke Death 	Words of Acquisition (Beza) 	Words of Requisition 	 
+49 	Lich 	Words of the Ethereal 	  	 
+49 	Paralyzing Earth 	Words of Crippling Force 	  	  
+
+Wizard Research
+
+Runes Needed
+16 	Identify 	Rune of Fahalem 	Rune of Substance 	 
+16 	Pillar of Fire 	Rune of Nagafen 	Rune of Proximity 	 
+16 	Project Lightning 	Rune of Fulguration 	Rune of Periphery 	 
+20 	Fire Spiral of Al'Kabor 	Rune of Al'Kabor 	Rune of Velious 	 
+20 	Instill 	Rune of Neglect 	Rune of Oppression 	 
+24 	Cast Force 	Rune of Disassociation 	Rune of Presense 	 
+24 	Column of Lightning 	Rune of Trauma 	Rune of Xegony 	 
+24 	Levitate 	Rune of Attraction 	Rune of Expulsion 	 
+24 	Lightning Storm 	Rune of Karana 	Rune of Xegony 	 
+29 	Energy Storm 	Rune of Fulguration 	Rune of Karana 	Rune of Xegony
+29 	Shock Spiral of Al'Kabor 	Rune of Al'Kabor 	Rune of Rollos Zek 	Rune of the Helix
+29 	Tox Portal 	Rune of Combine 	Rune of Dismemberment 	Rune of Regeneration
+34 	Circle of Force 	Rune of Banding 	Rune of Catalyst 	Rune of Concussion
+34 	Lava Storm 	Rune of Concussion 	Rune of Cyclone 	Rune of Solusek Ro
+34 	Thunderclap 	Rune of Conception 	Rune of Contortion 	Rune of Howling
+39 	Common Portal 	Rune of Combine 	Rune of Conception 	Rune of Embrace
+39 	Force Spiral of Al'Kabor 	Rune of Al'Kabor 	Rune of Infraction 	Rune of the Helix
+39 	Immobilize 	Rune of Paralysis 	Rune of Petrification 	Rune of Tyranny
+44 	Gravity Flux 	Rune of Attraction 	Rune of Inverse 	Rune of the Rathe
+49 	Ice Comet 	Rune of Frost 	Rune of the Astral 	 
+49 	Paralyzing Earth 	Rune of Crippling 	Rune of the Rathe 	 
+49 	Supernova 	Rune of Impetus 	Rune of the Astral 	 
+49 	Wrath of Al'Kabor 	Rune of Ap'Sagor 	Rune of Concussion 	  
